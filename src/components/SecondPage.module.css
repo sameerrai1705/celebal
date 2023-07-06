@@ -1,0 +1,63 @@
+.container{
+    margin: 80px auto;
+    width: 1100px;
+}
+
+.title h1{
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    color: #000000;
+}
+
+.title p{
+    margin: 30px 100px;
+    font-family: 'Manrope';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #000000;
+}
+
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 1100px;
+}
+
+.cover{
+    width: 300px;
+    margin: 30px;
+    text-align: center;
+}
+
+.cover img{
+    width: 70px;
+    height: 55px;
+    object-fit: cover;
+}
+
+.cover h3{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.cover p{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.2px;
+}

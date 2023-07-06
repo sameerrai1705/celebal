@@ -1,0 +1,36 @@
+.wrap{
+    margin-top: 100px;
+    padding: 40px;
+}
+
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+
+.container{
+    width: 504px;
+    height: 480px;
+}
+
+.container h1{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 76px;
+    color:#2E2E2E;
+    margin-bottom: 40px;
+}
+
+.container p{
+    font-family: 'Manrope';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #808080;
+}
+
+.btn{
+    margin-top: 80px;
+}
